@@ -12,6 +12,7 @@ let dot = document.querySelector('.decimal').addEventListener('click', event =>{
     }
 });
 
+
 let ac = document.querySelector('.all-clear').addEventListener('click', event => {
     screenText = "";
     firstDigit = null;
