@@ -34,6 +34,7 @@ equals.addEventListener('click', event => {
 });
 
 
+
 for(let i = 0;i<operators.length;i++){
     operators[i].addEventListener('click', event => {
         firstDigit = Number(screenText);
